@@ -1,4 +1,4 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=inditapryatamap_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=inditapryatamap=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=inditapryatamap)](https://github.com/ainditapryatamap/github-readme-stats" width = 400>
+  <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inditapryatamap&layout=compact)](https://github.com/inditapryatamap/github-readme-stats)" width = 400>
 </p>
