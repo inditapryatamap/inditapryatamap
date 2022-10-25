@@ -1,6 +1,4 @@
-<a href="https://github.com/inditapryatamap/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inditapryatamap&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/inditapryatamap/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inditapryatamap&repo=convoychat" />
-</a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=inditapryatamap_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=inditapryatamap=dark&hide_border=true" width = 400>
+</p>
